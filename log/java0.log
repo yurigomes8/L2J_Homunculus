@@ -1,0 +1,14 @@
+2021.01.24 02:49:23,999	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized.
+2021.01.24 02:49:24,027	INFO	1	org.l2jmobius.loginserver.LoginController	Loading LoginController...
+2021.01.24 02:49:24,607	INFO	1	org.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication.
+2021.01.24 02:49:24,615	WARNING	1	org.l2jmobius.commons.util.IXmlReader	Could not parse servername.xml is not a file or it doesn't exist!
+2021.01.24 02:49:24,616	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 0 server names.
+2021.01.24 02:49:24,627	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 2 registered Game Servers.
+2021.01.24 02:49:24,710	INFO	1	org.l2jmobius.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
+2021.01.24 02:49:24,711	WARNING	1	org.l2jmobius.loginserver.LoginServer	IP Bans file (banned_ip.cfg) is missing or is a directory, skipped.
+2021.01.24 02:49:24,712	INFO	1	org.l2jmobius.loginserver.LoginServer	Listening for GameServers on 127.0.0.1:9014
+2021.01.24 02:49:24,951	INFO	1	org.l2jmobius.commons.network.NetworkManager	ClientNetworkManager: Listening on 0.0.0.0:2106
+2021.01.24 02:52:09,253	INFO	31	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver [2] null IP's:
+2021.01.24 02:52:09,256	INFO	31	org.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2021.01.24 02:52:09,256	INFO	31	org.l2jmobius.loginserver.GameServerThread	192.168.0.107/192.168.0.0/24
+2021.01.24 02:52:09,256	INFO	31	org.l2jmobius.loginserver.GameServerThread	190.191.135.230/0.0.0.0/0
